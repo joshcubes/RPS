@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/joshcubes/RPS#readme",
   "dependencies": {
+    "colors": "^1.4.0",
     "prompt": "^1.3.0"
   }
 }
